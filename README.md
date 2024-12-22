@@ -9,6 +9,16 @@ PSF LICENSEについては、当リポジトリのLICENSEファイルのほか�
 
 最新バージョンは 1.0.3113.0 です。
 
+# 開発履歴
+
+バージョンの構文: Waithonメジャーバージョン.Waithonマイナーバージョン.元のCPythonのバージョン.パッチ数
+
+<h3>2024/12/22 1.0.3113.0</h3>
+<li>if    と等価な もしも       を実装</li>
+<li>elif  と等価な ではなく     を実装</li>
+<li>else: と等価な ではないとき を実装</li>
+<li>:     と等価な のとき       を実装</li>
+
 # 入手方法
 <h2>・<a href="https://github.com/ABATBeliever/Waithon/releases">ビルド済みイメージを入手</a></h2>
 
