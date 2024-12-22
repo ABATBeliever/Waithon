@@ -2,7 +2,7 @@
 
 Waithonを含む、すべてのCPythonの派生とCPythonそのものには PSFライセンスが適応されます。
 
-・Waithonは、CPython 3.12.8 からソースコード・バイナリが変更されています。
+・Waithonは、CPython 3.11.3 からソースコード・バイナリが変更されています。
 
 以下、PSFライセンス。
 
