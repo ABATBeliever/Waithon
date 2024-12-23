@@ -23,7 +23,7 @@
 #define PY_RELEASE_SERIAL       0
 
 /* Version as a string */
-#define PY_VERSION              "3.11.3"
+#define PY_VERSION              "Waithon-forked 1.0.3113.1 * https://github.com/ABATBeliever/Waithon/"
 /*--end constants--*/
 
 /* Version as a single 4-byte hex number, e.g. 0x010502B2 == 1.5.2b2.
